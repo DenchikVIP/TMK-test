@@ -23,7 +23,7 @@ namespace WindowsFormsApp1
             
         }
 
-        string connectionString = @"Data Source=D:\NeuroPractice\TMK-test\BD.db;Version=3;";
+        string connectionString = @"Data Source=D:\NeuroPractice\TMK-test\BDfor2.db;Version=3;";
 
         private void button1_Click(object sender, EventArgs e)
         {
